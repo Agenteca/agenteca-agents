@@ -1,0 +1,15 @@
+{
+  "name": "agenteca-agents",
+  "owner": { "name": "Agenteca", "url": "https://github.com/agenteca" },
+  "metadata": { "description": "Agent packages published by Agenteca." },
+  "plugins": [
+    {
+      "name": "agenteca-project-kit",
+      "source": "./plugins/agenteca-project-kit",
+      "description": "Agents and skills for building a multi-repository open-source project the careful way: standards first, a plan the owner approves, versioned contracts between repositories, and an honest account of what was verified.",
+      "version": "0.1.0",
+      "license": "Apache-2.0",
+      "category": "development"
+    }
+  ]
+}
