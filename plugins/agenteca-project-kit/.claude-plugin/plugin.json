@@ -1,0 +1,20 @@
+{
+  "name": "agenteca-project-kit",
+  "displayName": "Agenteca Project Kit",
+  "version": "0.1.0",
+  "description": "Agents and skills for building a multi-repository open-source project the careful way: standards first, a plan the owner approves, versioned contracts between repositories, and an honest account of what was verified.",
+  "author": {
+    "name": "Agenteca",
+    "url": "https://github.com/agenteca"
+  },
+  "homepage": "https://github.com/agenteca/agenteca-agents/tree/main/plugins/agenteca-project-kit",
+  "repository": "https://github.com/agenteca/agenteca-agents",
+  "license": "Apache-2.0",
+  "keywords": [
+    "planning",
+    "architecture",
+    "open-source",
+    "release",
+    "verification"
+  ]
+}
